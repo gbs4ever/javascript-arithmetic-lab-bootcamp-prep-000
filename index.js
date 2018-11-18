@@ -8,7 +8,7 @@ function inc(a){ return a+1}
 function dec(a){ return a-1}
 
 
-function  makeInt(a){ console.console.log(parseInt('5',10))
+function  makeInt(a){ console.log(parseInt('5',10))
   return parseInt('sldkjflksjf, 15');}
 function preserveDecimal(n) {return parseFloat(2.222);}
 
