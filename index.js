@@ -8,7 +8,7 @@ function inc(a){ return a+1}
 function dec(a){ return a-1}
 
 
-function  makeInt(a){ return parseInt('5')
+function  makeInt(n){ return parseInt('5')
 return parseInt('5',10)
   return parseInt('sldkjflksjf, 15');}
 
