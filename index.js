@@ -9,7 +9,7 @@ function dec(a){ return a-1}
 
 
 function  makeInt(n){ return parseInt('5')
-return parseInt('5',10)
+return parseInt('0',10)
   return parseInt('sldkjflksjf, 15');}
 
 function preserveDecimal(n) {return parseFloat('2.222');}
