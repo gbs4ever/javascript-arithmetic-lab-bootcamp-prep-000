@@ -8,8 +8,8 @@ function inc(a){ return a+1}
 function dec(a){ return a-1}
 
 
-function  makeInt(a){ return parseInt('5',10);}
-function  makeInt(a){ return parseInt('5',10);}
+function  makeInt(a){ return parseInt('5',);}
+function  makeInt(a){ return parseInt('5',0);}
 
 function  makeInt(n){ return parseInt('sldkjflksjf, 15');}
 function preserveDecimal(n) {return parseFloat(2.222);}
