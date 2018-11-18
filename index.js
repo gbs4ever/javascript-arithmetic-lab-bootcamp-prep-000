@@ -10,8 +10,8 @@ function dec(a){ return a-1}
 
 function  makeInt(a){ return parseInt('5')
 return parseInt('5',10)
-  return parseInt('sldkjflksjf, 15')}
+  return parseInt('sldkjflksjf, 15');}
 
-function preserveDecimal(n) {return parseFloat(2.222);}
+function preserveDecimal(n) {return parseFloat('2.222');}
 
 function preserveDecimal(n) {return parseFloat('thth')}
